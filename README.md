@@ -5,7 +5,7 @@
 
 👨‍💻 I enjoy contributing to **Open Source Projects**. I am really enthusiastic about learning new technology. I'm currently learning **Next.js**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development**.
 
-⚽️ Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **football**, **gaming**, and **traveling**.
+⚽️ Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **sports**, **gaming**, and **traveling**.
 
 
 ## 🛠️ Skills
